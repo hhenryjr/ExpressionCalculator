@@ -1,0 +1,13 @@
+C:\Users\OWNER\Source\Repos\ExpressionCalculator\ExpressionCalculator\bin\Debug\netcoreapp3.1\ExpressionCalculator.exe
+C:\Users\OWNER\Source\Repos\ExpressionCalculator\ExpressionCalculator\bin\Debug\netcoreapp3.1\ExpressionCalculator.deps.json
+C:\Users\OWNER\Source\Repos\ExpressionCalculator\ExpressionCalculator\bin\Debug\netcoreapp3.1\ExpressionCalculator.runtimeconfig.json
+C:\Users\OWNER\Source\Repos\ExpressionCalculator\ExpressionCalculator\bin\Debug\netcoreapp3.1\ExpressionCalculator.runtimeconfig.dev.json
+C:\Users\OWNER\Source\Repos\ExpressionCalculator\ExpressionCalculator\bin\Debug\netcoreapp3.1\ExpressionCalculator.dll
+C:\Users\OWNER\Source\Repos\ExpressionCalculator\ExpressionCalculator\obj\Debug\netcoreapp3.1\ExpressionCalculator.AssemblyInfoInputs.cache
+C:\Users\OWNER\Source\Repos\ExpressionCalculator\ExpressionCalculator\obj\Debug\netcoreapp3.1\ExpressionCalculator.AssemblyInfo.cs
+C:\Users\OWNER\Source\Repos\ExpressionCalculator\ExpressionCalculator\obj\Debug\netcoreapp3.1\ExpressionCalculator.genruntimeconfig.cache
+C:\Users\OWNER\Source\Repos\ExpressionCalculator\ExpressionCalculator\bin\Debug\netcoreapp3.1\ExpressionCalculator.pdb
+C:\Users\OWNER\Source\Repos\ExpressionCalculator\ExpressionCalculator\obj\Debug\netcoreapp3.1\ExpressionCalculator.csprojAssemblyReference.cache
+C:\Users\OWNER\Source\Repos\ExpressionCalculator\ExpressionCalculator\obj\Debug\netcoreapp3.1\ExpressionCalculator.dll
+C:\Users\OWNER\Source\Repos\ExpressionCalculator\ExpressionCalculator\obj\Debug\netcoreapp3.1\ExpressionCalculator.pdb
+C:\Users\OWNER\Source\Repos\ExpressionCalculator\ExpressionCalculator\obj\Debug\netcoreapp3.1\ExpressionCalculator.csproj.CoreCompileInputs.cache
