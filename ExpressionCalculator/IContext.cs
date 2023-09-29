@@ -4,8 +4,9 @@ using System.Text;
 
 namespace ExpressionCalculator
 {
-    public interface IContext
-    {
-        double CallFunction(string name, double[] arguments);
-    }
+  public interface IContext
+  {
+    double CallFunction(string name, double[] arguments);
+    double ResolveVariable(string name);
+  }
 }
